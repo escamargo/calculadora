@@ -1,0 +1,201 @@
+#uno{
+	height: 3vw;
+	width: 30vw;
+	background-color:red;
+	text-align: center;
+	font-size: 3vw;
+
+}
+
+#uno1{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+#uno2{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+
+#uno3{
+height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+#uno4{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+#uno5{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+#uno6{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+#uno7{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+
+#uno8{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+
+#uno9{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+#uno10{
+
+height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+
+#uno11{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+#uno12{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+#uno13{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+
+#uno14{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+#uno15{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+#uno16{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+#uno17{
+	height: 3vw;
+	width: 3vw;
+	border-color: red;
+	font-size: 2vw;
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+h1{
+	font-family: cursive;
+	font-size: 3vw;
+	height: 5vw;
+}
+#color{
+	background-color: red;
+	width: 33vw;
+	height:33vw;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-content: flex-start;
+
+}
+body{
+	display: flex;
+	justify-content: center;
+}
